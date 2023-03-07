@@ -6,3 +6,10 @@
   <a href="https://t.me/avariuous">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram"/>
   </a>
+  
+
+        
+<img src="https://komarev.com/ghpvc/?username=avariuous&style=flat-square&color=blue" alt=""/>
+
+ 
+ </div>
